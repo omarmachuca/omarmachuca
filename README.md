@@ -3,7 +3,7 @@
    <h3 align="center">¡Hi 👋! My Name is Omar Sanchez Machuca 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Full Stack</strong> with 10 years working in technology.<br />¡Mi Social media 👇!</p>
+<p align="center">I'm <strong>Full Stack Software Developer</strong> with 10 years working in technology.<br />¡Mi Social media 👇!</p>
 <p align="center">
    <a href="https://www.youtube.com/channel/UCNGaP2B32f4RT3lDESReybw" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="osanmac" height="28px" width="28px" />
